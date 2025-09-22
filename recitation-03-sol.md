@@ -1,7 +1,5 @@
 # CMPS 2200  Recitation 03
 
-**Name (Team Member 1):**_________________________  
-**Name (Team Member 2):**_________________________
 
 ## Recommendation Systems
 
@@ -42,3 +40,4 @@ upper bound on the runtime \(T_{\lg n}\).
 $T_P  < W/P + S$
 
 $T_{\lg n} < \frac{n \lg n}{\lg n} + n = 2n$
+
